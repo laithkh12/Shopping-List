@@ -54,4 +54,4 @@ To get started with the project, follow these steps:
 
 ## License
 
-This project is jut for private use
+This project is just for private use
