@@ -42,9 +42,9 @@ To get started with the project, follow these steps:
 ## Usage
 
 - Add a new item by typing in the input field and clicking the "Add" button.
-- Delete an item by clicking the trash icon next to it.
-- Mark an item as done by clicking the checkbox next to it.
-- Sort the items alphabetically using the "Sort" button.
+- Delete an item by clicking the delete icon next to it.
+- Mark an item as done by clicking the done next to it.
+- Sort the items alphabetically using the "Sort" options.
 
 ## Technologies Used
 
